@@ -62,18 +62,18 @@ flutter_launcher_icons:
     generate: true
   web:
     generate: true
-    background_color: "#1B3A5C"
-    theme_color: "#1B3A5C"
+    background_color: "#1B3468"
+    theme_color: "#1B3468"
   image_path: ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png
-  adaptive_icon_background: "#1B3A5C"
+  adaptive_icon_background: "#1B3468"
   adaptive_icon_foreground: ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png
   adaptive_icon_foreground_inset: 18
 
 flutter_native_splash:
-  color: "#1B3A5C"
+  color: "#1B3468"
   image: ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png
   android_12:
-    color: "#1B3A5C"
+    color: "#1B3468"
     image: ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png
   ios: true
   android: true

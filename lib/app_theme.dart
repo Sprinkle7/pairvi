@@ -2,13 +2,14 @@ import 'package:flutter/material.dart';
 
 class AppTheme {
   // ── Core palette ──────────────────────────────────────────────
-  static const Color primary      = Color(0xFF1B3A5C); // Deep navy
-  static const Color primaryDark  = Color(0xFF0F2438); // Darkest navy
-  static const Color primaryLight = Color(0xFF254F7A); // Lighter navy
+  // Colors extracted directly from the Pairvi logo
+  static const Color primary      = Color(0xFF1B3468); // Logo navy blue
+  static const Color primaryDark  = Color(0xFF101E40); // Darkest logo navy
+  static const Color primaryLight = Color(0xFF2A4A80); // Lighter navy
   static const Color accent       = Color(0xFF1F7A8C); // Professional teal
   static const Color accentLight  = Color(0xFF2A9BB0); // Light teal
-  static const Color gold         = Color(0xFFC49A2A); // Legal gold
-  static const Color surface      = Color(0xFFEEF2F8); // Cool light bg
+  static const Color gold         = Color(0xFFB8922A); // Logo gavel gold
+  static const Color surface      = Color(0xFFEDF1F8); // Cool light bg
   static const Color card         = Colors.white;
   static const Color divider      = Color(0xFFDFE8F2);
   static const Color darkSurface  = Color(0xFF0E1620);
@@ -43,7 +44,7 @@ class AppTheme {
   static const LinearGradient splashGradient = LinearGradient(
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
-    colors: [primaryDark, primary, Color(0xFF1A5068)],
+    colors: [primaryDark, primary, Color(0xFF1E3A70)],
     stops: [0.0, 0.55, 1.0],
   );
 
