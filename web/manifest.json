@@ -1,11 +1,11 @@
 {
-    "name": "Daftar",
-    "short_name": "Daftar",
+    "name": "Pairvi",
+    "short_name": "Pairvi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#1B3A5C",
     "theme_color": "#1B3A5C",
-    "description": "Daftar — legal case management and goshwara calculator.",
+    "description": "Pairvi — legal case management and goshwara calculator.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

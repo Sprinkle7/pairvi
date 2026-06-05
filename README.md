@@ -1,12 +1,10 @@
-# Daftar
+# Pairvi
 
-**Daftar** is a Flutter app for legal professionals to prepare accurate **goshwara** (degree amount) calculations for court cases. It helps advocates and court staff compute year-wise breakdowns, track payments, save work locally, and export court-ready PDF reports.
-
-> *Daftar* (دفتر) means register or ledger — a fitting name for an app that keeps legal calculations organized and printable.
+**Pairvi** is a Flutter app for legal professionals to prepare accurate **goshwara** (degree amount) calculations for court cases. It helps advocates and court staff compute year-wise breakdowns, track payments, save work locally, and export court-ready PDF reports.
 
 ## About
 
-Goshwara statements are used in Pakistani legal practice to summarize how a decree amount accrues over time, often with annual percentage increments, partial payments, and verification status. Doing this by hand is slow and error-prone. Daftar automates the math, keeps a clear record of each case, and produces documents suitable for filing or sharing.
+Goshwara statements are used in Pakistani legal practice to summarize how a decree amount accrues over time, often with annual percentage increments, partial payments, and verification status. Doing this by hand is slow and error-prone. Pairvi automates the math, keeps a clear record of each case, and produces documents suitable for filing or sharing.
 
 The app is designed for daily use in chambers and courts: fast data entry, readable results, offline access, and bilingual support for English and Urdu.
 
