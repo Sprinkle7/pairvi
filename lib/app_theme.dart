@@ -91,8 +91,8 @@ class AppTheme {
       pageTransitionsTheme: const PageTransitionsTheme(
         builders: {
           TargetPlatform.android: ZoomPageTransitionsBuilder(),
-          TargetPlatform.iOS: CupertinoPageTransitionsBuilder(),
-          TargetPlatform.macOS: CupertinoPageTransitionsBuilder(),
+          // TargetPlatform.iOS: CupertinoPageTransitionsBuilder(),
+          // TargetPlatform.macOS: CupertinoPageTransitionsBuilder(),
         },
       ),
       appBarTheme: const AppBarTheme(
@@ -294,8 +294,8 @@ class AppTheme {
       pageTransitionsTheme: const PageTransitionsTheme(
         builders: {
           TargetPlatform.android: ZoomPageTransitionsBuilder(),
-          TargetPlatform.iOS: CupertinoPageTransitionsBuilder(),
-          TargetPlatform.macOS: CupertinoPageTransitionsBuilder(),
+          // TargetPlatform.iOS: CupertinoPageTransitionsBuilder(),
+          // TargetPlatform.macOS: CupertinoPageTransitionsBuilder(),
         },
       ),
       appBarTheme: const AppBarTheme(
